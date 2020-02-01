@@ -52,14 +52,14 @@ by_bridge = false
 ;
 ; true  = enabled
 ; false = disabled (default)
-enable = false
+enable = true
 
 ; The username for authentication. Insert this name when prompted for login.
-username = ""
+username = "spiezer"
 
 ; The password for authentication. Insert this password when prompted for login.
 ; Use a strong password to prevent others from guessing your login!
-password = ""
+password = "heyyouxxx"
 
 [error]
 
